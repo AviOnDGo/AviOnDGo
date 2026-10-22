@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Electronics- tinkering-blue?style=for-the-badge" alt="Electronics tinkering">
+  <img src="https://img.shields.io/badge/Electronics-tinkering-blue?style=for-the-badge" alt="Electronics tinkering">
   <img src="https://img.shields.io/badge/Single--board%20computers-exploring-green?style=for-the-badge" alt="Single-board computers">
   <img src="https://img.shields.io/badge/Home%20lab-self--hosted-purple?style=for-the-badge" alt="Self-hosted home lab">
   <img src="https://img.shields.io/badge/AI-always%20curious-orange?style=for-the-badge" alt="AI">
