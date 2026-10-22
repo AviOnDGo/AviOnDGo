@@ -29,3 +29,7 @@ I’m fascinated by how small computers, connected devices, and emerging AI can 
 <p align="center">
   <i>Curious by nature. Always tinkering.</i>
 </p>
+
+### Reusable tools
+
+- [Secret-scanning Git hooks](secret-scanning/README.md) for local pre-commit and pre-push checks in other repositories.
