@@ -26,6 +26,10 @@ I enjoy getting hands-on with technology: tinkering with electronics, experiment
 
 I’m fascinated by how small computers, connected devices, and emerging AI can come together to create something practical. There’s always another project to try or a new technology to learn.
 
+### Public homelab
+
+I’m sharing [my homelab](https://github.com/AviOnDGo/homelab) publicly as a record of the infrastructure I run, the services I self-host, and the lessons learned while keeping it reliable and secure.
+
 <p align="center">
   <i>Curious by nature. Always tinkering.</i>
 </p>
